@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ykeye
 - 👀 I’m interested in everything
-- 🌱 I’m currently learning nothing
+- 🌱 I’m currently learning Python and CyberSecurity
 - 💞️ I’m looking to collaborate on world domination
 
 
