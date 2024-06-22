@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @Ykeye
-- 👀 I’m interested in everything
-- 🌱 I’m currently learning Python and CyberSecurity
-- 💞️ I’m looking to collaborate on world domination
-
+It all started with MS-DOS and IBM286.
+Working at Cybersecuirty product Vendor.
+Iterested in low level programming and fiddling with things for fun and no profit.
 
 <!---
 Ykeye/Ykeye is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
