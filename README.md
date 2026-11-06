@@ -1,5 +1,5 @@
  - It all started with MS-DOS and IBM286.
- - Working at Cybersecuirty product Vendor.
+ - Working in PCI DSS certified Fintech ;)
  - Iterested in low level programming and fiddling with things for fun and no profit.
   
 <!---
